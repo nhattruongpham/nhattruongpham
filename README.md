@@ -1,4 +1,5 @@
-### Hi there 👋
+### Nhat Truong Pham's Hub
+Nhat Truong Pham received a B.Eng. degree in Electronics and Telecommunication Engineering, and an M.Sc.Eng. degree in Automation and Control Engineering, Ton Duc Thang University (TDTU), Vietnam, in 2019 and 2021, respectively. Currently, he is a research assistant in the Division of Computational Mechatronics, Institute for Computational Science, Ton Duc Thang University, Vietnam. He is also a key member in FruitLab which has developed an education Deep Reinforcement Learning framework namely Fruit-API. His research interests include Artificial Intelligence, Deep Learning, Computer Vision, Signal Processing, Robotics, Life Sciences, and Computational Science.
 
 <!--
 **nhattruongpham/nhattruongpham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
