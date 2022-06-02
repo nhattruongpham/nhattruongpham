@@ -1,7 +1,7 @@
 ### Nhat Truong Pham's GitHub
-Currently, I am a Research Assistant working with [Dr. Sy Dzung Nguyen](https://incos.tdtu.edu.vn/en/staff/dr-nguyen-sy-dung-nguyen-sy-dzung) at the [Division of Computational Mechatronics (DCME)](https://incos.tdtu.edu.vn/en/division-of-computational-mechatronics-dcme), [Institute for Computational Science (INCOS)](https://incos.tdtu.edu.vn/en), [Ton Duc Thang University (TDTU)](https://www.tdtu.edu.vn/en), Vietnam. I am also pursuing my Ph.D. degree in Computational Science, at INCOS, TDTU, supervised by Dr. Sy Dzung Nguyen. I did my M.Sc. degree from July 2019 to April 2021 at the Department of Automation and Control Engineering, [Faculty of Electrical and Electronics Engineering (FEEE)](https://feee.tdtu.edu.vn/en), TDTU, supervised by Dr. Sy Dzung Nguyen and co-supervised by [Dr. Duc Ngoc Minh Dang](https://feee.tdtu.edu.vn/en/people/dr-dang-ngoc-minh-duc). Before that, I received B.Eng. degree in Electronics and Telecommunications Engineering, FEEE, TDTU, supervised by Dr. Duc Ngoc Minh Dang, in 2019.
+Currently, I am a Research Assistant working with Dr. Sy Dzung Nguyen at the Division of Computational Mechatronics, Institute for Computational Science, Ton Duc Thang University, Vietnam. I received the M.Eng. degree in Automation and Control, supervised by Dr. Sy Dzung Nguyen and co-supervised by Dr. Duc Ngoc Minh Dang, in 2021. Before that, I received B.Eng. degree in Electronics and Telecommunication, supervised by Dr. Duc Ngoc Minh Dang, in 2019.
 
-My research interests include: Artificial intelligence, computational intelligence, machine intelligence, and signal processing.
+My research interests include: Artificial intelligence, computational intelligence, deep learning, machine intelligence, reinforcement learning, signal processing, and their applications.
 
 <!--
 **nhattruongpham/nhattruongpham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
