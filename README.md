@@ -1,5 +1,5 @@
 ### Nhat Truong Pham's GitHub
-Currently, I am a Research Assistant in the Institute for Computational Science at Ton Duc Thang University, Vietnam. I received the M.E. degree in Automation and Control, supervised by Dr. Sy Dzung Nguyen and co-supervised by Dr. Duc Ngoc Minh Dang, in 2021. Before that, I received the B.E. degree in Electronics and Telecommunication, supervised by Dr. Duc Ngoc Minh Dang, in 2019.
+Currently, I am a Research Assistant in the Institute for Computational Science at Ton Duc Thang University (TDTU), Vietnam. I received the M.E. degree in Automation and Control from TDTU, Vietnam, supervised by Dr. Sy Dzung Nguyen and co-supervised by Dr. Duc Ngoc Minh Dang, in 2021. Before that, I received the B.E. degree in Electronics and Telecommunication from TDTU, Vietnam, supervised by Dr. Duc Ngoc Minh Dang, in 2019.
 
 My research interests include applied intelligence, artificial intelligence, computational intelligence, and their applications.
 
