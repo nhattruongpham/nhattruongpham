@@ -1,7 +1,7 @@
 ### Nhat Truong Pham's GitHub
-Currently, I am a Research Assistant working with Dr. Sy Dzung Nguyen at the Division of Computational Mechatronics, Institute for Computational Science, Ton Duc Thang University, Vietnam. I received the M.S. degree in Automation and Control, supervised by Dr. Sy Dzung Nguyen and co-supervised by Dr. Duc Ngoc Minh Dang, in 2021. Before that, I received B.E. degree in Electronics and Telecommunication, supervised by Dr. Duc Ngoc Minh Dang, in 2019.
+Currently, I am a Research Assistant in the Institute for Computational Science at Ton Duc Thang University, Vietnam. I received the M.E. degree in Automation and Control, supervised by Dr. Sy Dzung Nguyen and co-supervised by Dr. Duc Ngoc Minh Dang, in 2021. Before that, I received the B.E. degree in Electronics and Telecommunication, supervised by Dr. Duc Ngoc Minh Dang, in 2019.
 
-My research interests include: Artificial intelligence, computational intelligence, deep learning, machine intelligence, reinforcement learning, signal processing, and their applications.
+My research interests include applied intelligence, artificial intelligence, computational intelligence, and their applications.
 
 <!--
 **nhattruongpham/nhattruongpham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
