@@ -1,7 +1,7 @@
 ### Nhat Truong Pham's GitHub
 Currently, I am a Research Assistant in the Institute for Computational Science at Ton Duc Thang University (TDTU), Vietnam. I received the M.E. degree in Automation and Control from TDTU, Vietnam, supervised by Dr. Sy Dzung Nguyen and co-supervised by Dr. Duc Ngoc Minh Dang, in 2021. Before that, I received the B.E. degree in Electronics and Telecommunication from TDTU, Vietnam, supervised by Dr. Duc Ngoc Minh Dang, in 2019.
 
-My research interests include applied intelligence, artificial intelligence, computational intelligence, signal processing, and their applications in audio/speech processing, bioinformatics, and healthcare domains.
+My research interests include applied intelligence, artificial intelligence, computational intelligence, signal processing, and their applications in audio/speech processing, bioinformatics, environmental sciences, life sciences, and healthcare domains.
 
 <!--
 **nhattruongpham/nhattruongpham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
