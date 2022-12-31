@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 <div align='center'>
-  <img src="https://github.com/Leticia-maria/Leticia-maria/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/nhattruongpham/nhattruongpham/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
 <div align='center'>
