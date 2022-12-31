@@ -18,5 +18,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align='center'>
+  <img src="https://github.com/Leticia-maria/Leticia-maria/blob/output/github-contribution-grid-snake.svg"/>
+</div>
+
+<div align='center'>
+  <img src="./profile-3d-contrib/profile-south-season-animate.svg"/>
+</div>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhattruongpham&layout=compact&hide=html" alt="nhattruongpham" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhattruongpham&show_icons=true&theme=radical" alt="" /></p>
