@@ -1,5 +1,5 @@
-### Nhat Truong Pham's GitHub
-Currently, I am a Research Assistant in the Institute for Computational Science at Ton Duc Thang University (TDTU), Vietnam. I received the M.E. degree in Automation and Control from TDTU, Vietnam, supervised by Dr. Sy Dzung Nguyen and co-supervised by Dr. Duc Ngoc Minh Dang, in 2021. Before that, I received the B.E. degree in Electronics and Telecommunication from TDTU, Vietnam, supervised by Dr. Duc Ngoc Minh Dang, in 2019.
+### Skyo's GitHub
+I am currently a Graduate Research Assistant (Ph.D. Student) at the Computational Biology and Bioinformatics Laboratory, Department of Integrative Biotechnology, College of Biotechnology and Bioengineering, Sungkyunkwan University. My advisor is Assistant Professor Balachandran Manavalan. Prior to this, I worked as a full-time Research Assistant at Ton Duc Thang University (TDTU) in Vietnam. In 2021, I received my M.E. degree in Automation and Control from TDTU, supervised by Dr. Sy Dzung Nguyen and co-supervised by Dr. Duc Ngoc Minh Dang. I also hold a B.E. degree in Electronics and Telecommunication from TDTU, which I received in 2019, under the supervision of Dr. Duc Ngoc Minh Dang.
 
 My research interests include applied intelligence, artificial intelligence, computational intelligence, signal processing, and their applications in audio/speech processing, bioinformatics, environmental sciences, life sciences, and healthcare domains.
 
